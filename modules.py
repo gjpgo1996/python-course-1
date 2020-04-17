@@ -24,6 +24,5 @@
 # add(1, 2)
 # substract(1, 2)
 
-from colorama import Fore, Style, init
-init(convert=True)
+from colorama import Fore, Style
 print(Fore.RED + "Hello World")
