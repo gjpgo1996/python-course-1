@@ -39,3 +39,10 @@
 #     print("x no es igual que y")
 # else:
 #     print("si es")
+
+mapu = "quesito"
+
+if mapu == "quesito":
+    print("mapu es un elotito")
+else:
+    print("mapu no es digna de ser un elotito")
